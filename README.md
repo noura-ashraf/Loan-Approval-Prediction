@@ -137,7 +137,7 @@ The Random Forest model achieved **96.5% accuracy** on the test set:
 - Integrate real banking data
 - Explore deep learning models
 
----
+- [Link to Live Project](https://loan-approval-prediction-6wvrm7byrxfqcb6fynogxs.streamlit.app/)
 
 ## Team Members
 1. **Alaa Samy Mahmoud**
