@@ -140,7 +140,7 @@ The Random Forest model achieved **96.5% accuracy** on the test set:
 - [Link to Live Project](https://loan-approval-prediction-6wvrm7byrxfqcb6fynogxs.streamlit.app/)
 
 ## Team Members
-1. **Alaa Samy Mahmoud**
+1. **Alaa Ibrahim sabry**
 2. **Basmala Ahmed Younis**
 3. **Haneen Ahmed Omar**
 4. **Noura Ashraf Abuelyazed**
